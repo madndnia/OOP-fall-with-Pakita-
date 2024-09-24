@@ -1,2 +1,2 @@
-# OOP-fall-with-Pakita-
+# OOP-fall
 labs and practices
